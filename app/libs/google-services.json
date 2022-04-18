@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "852068756770",
+    "project_id": "gestion-a8452",
+    "storage_bucket": "gestion-a8452.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852068756770:android:f51ed84ed659f72af3097b",
+        "android_client_info": {
+          "package_name": "com.example.algo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852068756770-gvr0gl60089i4aa3jldtpp4okb40a02b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2vSGS_Q95_FWVCThlfrTUo3joc-qxdic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852068756770-gvr0gl60089i4aa3jldtpp4okb40a02b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852068756770:android:8b2a5b377eb48181f3097b",
+        "android_client_info": {
+          "package_name": "com.manuel.nachoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852068756770-gvr0gl60089i4aa3jldtpp4okb40a02b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2vSGS_Q95_FWVCThlfrTUo3joc-qxdic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852068756770-gvr0gl60089i4aa3jldtpp4okb40a02b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
